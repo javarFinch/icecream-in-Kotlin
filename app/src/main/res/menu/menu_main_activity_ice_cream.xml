@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.maclab.icecreamkotlin.MainActivityIceCream">
+    <item
+        android:id="@+id/aboutItem"
+        android:orderInCategory="100"
+        android:title="About" />
+    <item
+        android:id="@+id/orderHistoryItem"
+        android:orderInCategory="101"
+        android:title="Order History" />
+</menu>

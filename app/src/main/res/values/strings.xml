@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IceCreamKotlin</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="flavors">
+        <item> Vanilla </item>
+        <item> Chocolate </item>
+        <item> Strawberry </item>
+    </string-array>
+    <string-array name="sizes">
+        <item> Small </item>
+        <item> Medium </item>
+        <item> Large </item>
+    </string-array>
+</resources>
